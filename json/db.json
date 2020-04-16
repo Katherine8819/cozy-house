@@ -1,7 +1,7 @@
 [{
   "id": 1,
   "name": "Jennifer",
-  "photo": "../img/pets/1.jpg",
+  "photo": "img/pets/1.jpg",
   "breed": "Pooch + Labrador",
   "description": "A favourite disability assistance breed in many countries, Labradors are frequently trained to aid those with blindness or autism, act as a therapy dog, or perform screening and detection work for law enforcement and other official agencies.   The breed is best known for their obedience, loyalty, and playful composure. Additionally, they are prized as sporting and hunting dogs. Originally used in Newfoundland, as fishing dogs, they would help bring in the fishing nets and retrieve fish that had gotten away.",
   "additional": {
@@ -13,7 +13,7 @@
 }, {
   "id": 2,
   "name": "Charly",
-  "photo": "../img/pets/2.jpg",
+  "photo": "img/pets/2.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
@@ -26,7 +26,7 @@
 }, {
   "id": 3,
   "name": "Kristi",
-  "photo": "../img/pets/3.jpg",
+  "photo": "img/pets/3.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
@@ -39,7 +39,7 @@
 }, {
   "id": 4,
   "name": "Daniaal",
-  "photo": "../img/pets/4.jpg",
+  "photo": "img/pets/4.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
@@ -52,7 +52,7 @@
 }, {
   "id": 5,
   "name": "Beck",
-  "photo": "../img/pets/5.jpg",
+  "photo": "img/pets/5.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
@@ -65,7 +65,7 @@
 }, {
   "id": 6,
   "name": "Theo",
-  "photo": "../img/pets/6.jpg",
+  "photo": "img/pets/6.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
@@ -78,7 +78,7 @@
 }, {
   "id": 7,
   "name": "Aida",
-  "photo": "../img/pets/7.jpg",
+  "photo": "img/pets/7.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
@@ -91,7 +91,7 @@
 }, {
   "id": 8,
   "name": "Fergus",
-  "photo": "../img/pets/8.jpg",
+  "photo": "img/pets/8.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
@@ -104,7 +104,7 @@
 }, {
   "id": 9,
   "name": "Karter",
-  "photo": "../img/pets/9.jpg",
+  "photo": "img/pets/9.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
@@ -117,7 +117,7 @@
 }, {
   "id": 10,
   "name": "Teresa",
-  "photo": "../img/pets/10.jpg",
+  "photo": "img/pets/10.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
@@ -130,7 +130,7 @@
 }, {
   "id": 11,
   "name": "Izabel",
-  "photo": "../img/pets/11.jpg",
+  "photo": "img/pets/11.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
@@ -143,7 +143,7 @@
 }, {
   "id": 12,
   "name": "Hadley",
-  "photo": "../img/pets/12.jpg",
+  "photo": "img/pets/12.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
@@ -156,7 +156,7 @@
 }, {
   "id": 13,
   "name": "Remy",
-  "photo": "../img/pets/13.jpg",
+  "photo": "img/pets/13.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
@@ -169,7 +169,7 @@
 }, {
   "id": 14,
   "name": "Georgie",
-  "photo": "../img/pets/14.jpg",
+  "photo": "img/pets/14.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
@@ -182,7 +182,7 @@
 }, {
   "id": 15,
   "name": "Everly",
-  "photo": "../img/pets/15.jpg",
+  "photo": "img/pets/15.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
@@ -195,7 +195,7 @@
 }, {
   "id": 16,
   "name": "Mattie",
-  "photo": "../img/pets/16.jpg",
+  "photo": "img/pets/16.jpg",
   "breed": "Pooch",
   "description": "These adorable pups would be a great addition to a big family or single person household. They would also do well in an apartment. Just make sure to start training early to curb excessive barking. If you want a playful, cuddly, low-shed pup, who will love you unconditionally, the Poochon may be the right dog for you!",
   "additional": {
