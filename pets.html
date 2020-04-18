@@ -8,6 +8,7 @@
     <script src="https://kit.fontawesome.com/8d4a291d01.js" crossorigin="anonymous"></script>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
     <link rel="stylesheet" type="text/css" href="css/styles.min.css" />
     <title>Cozy House</title>
 </head>
@@ -80,11 +81,14 @@
             <h2 class="footer__title">We are waiting <br> for your visit</h2>
             <div class="footer__item">
               <img src="img/pin.png" alt="" class="footer__icon" />
-              <a href="#" class="footer__link">Boston, Central Street, 1st<br> (Entrance from the store)</a>
+              <a href="https://maps.google.com/?q=Boston, Central Street, 1st" target="_blanc" class="footer__link">Boston,
+                Central Street,
+                1st<br> (Entrance from
+                the store)</a>
             </div>
             <div class="footer__item">
               <img src="img/pin.png" alt="" class="footer__icon" />
-              <a href="#" class="footer__link">
+              <a href="https://maps.google.com/?q=London, South Park, 18st" target="_blanc" class="footer__link">
                 London, South Park, 18st
               </a>
             </div>
@@ -92,13 +96,12 @@
         </div>
       </div>
     </footer>
-    <div class="modal" id="modal">
-      <div class="modal__dialog">
-        <div class="modal__content" id="modalContent"></div>
+    <div class="modal animated fadeIn faster" id="modal">
+      <div class="modal__dialog animated zoomIn faster">
+        <div class=" modal__content" id="modalContent"></div>
         <button class="modal__close" id="modalClose">&times;</button>
       </div>
     </div>
-    <script src="js/jquery.min.js"></script>
     <script src="https://unpkg.com/swiper/js/swiper.min.js"></script>
     <script src="js/main.min.js"></script>
     <script src="https://kit.fontawesome.com/8d4a291d01.js" crossorigin="anonymous"></script>
