@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
     <link rel="stylesheet" type="text/css" href="css/styles.min.css" />
-    <title>Cozy House</title>
+    <title>Contacts</title>
 </head>
 
 <body>
@@ -53,11 +53,50 @@
     <main>
         <section class="section section--bg">
             <div class="container">
-                <h2>Our friends who<br> are looking for a house</h2>
-                <div class="friends" id="friends">
+                <h2>How To Find Us</h2>
 
-                </div>
-                <div class="pagination" id="pagination">
+                <div class="contacts">
+                    <div id="map" class="contacts__map"></div>
+                    <div class="contacts__info">
+                        <div class="contacts__block">
+                            <h3 class="contacts__title">Our addresses</h3>
+                            <div class="contacts__item">
+                                <img src="img/pin.png" alt="" class="contacts__icon" />
+                                <a href="#" class="contacts__link">Boston
+                                    Public Garden, 4 Charles St, Boston</a>
+                            </div>
+                            <div class="contacts__item">
+                                <img src="img/pin.png" alt="" class="contacts__icon" />
+                                <a href="#" class="contacts__link">
+                                    Green Park, London
+                                </a>
+                            </div>
+                            <div class="contacts__item">
+                                <img src="img/pin.png" alt="" class="contacts__icon" />
+                                <a href="#" class="contacts__link">
+                                    Shanghai St, Yau Ma Tei, Hong Kong
+                                </a>
+                            </div>
+                            <div class="contacts__item">
+                                <img src="img/pin.png" alt="" class="contacts__icon" />
+                                <a href="#" class="contacts__link">
+                                    Guglgasse 8, 1110 Wien, Austria
+                                </a>
+                            </div>
+                        </div>
+                        <div class="contacts__block">
+                            <h3 class="contacts__title">Our contacts</h3>
+                            <div class="contacts__item">
+                                <img src="img/envelope.png" alt="" class="contacts__icon" />
+                                <a class="contacts__data" href="mailto:email@shelter.com">email@shelter.com</a>
+                            </div>
+                            <div class="contacts__item">
+                                <img src="img/telephone.png" alt="" class="contacts__icon" />
+                                <a class="contacts__data" href="tel:+136745677554">+13 674 567 75 54</a>
+                            </div>
+                        </div>
+
+                    </div>
                 </div>
             </div>
         </section>
@@ -101,9 +140,12 @@
         <button class="modal__close" id="modalClose">&times;</button>
       </div>
     </div>
+
     <script src="https://unpkg.com/swiper/js/swiper.min.js"></script>
     <script src="js/main.min.js"></script>
     <script src="https://kit.fontawesome.com/8d4a291d01.js" crossorigin="anonymous"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD7BPy6e4vnhWePEqTnaxAJ7MlGOx5A2BY&callback=initMap"
+        async defer></script>
 </body>
 
 </html>
